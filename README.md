@@ -1,4 +1,4 @@
-# Master Liga Online — Web
+# React Starter Pack
 
 Front-end do sistema Master Liga Online.
 
